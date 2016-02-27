@@ -1,15 +1,15 @@
  
 To get started with the tool remotely (not as web application), install R base from the link https://cran.r-project.org/bin/windows/base/. Install RStudio compatible to your machine from https://www.rstudio.com/products/rstudio/ download/. Once you are done, start RStudio and enter the following commands to install the needed packages.
 
-    install.packages(''shiny'')
+    install.packages("shiny")
 
-    install.packages(''markdown'')
+    install.packages("markdown")
 
-    install.packages(''plyr'')
+    install.packages("plyr")
 
-    install.packages(''data.table'')
+    install.packages("data.table")
 
-    install.packages(''dplyr')
+    install.packages("dplyr")
 
 ## Affy package
     source("http://bioconductor.org/biocLite.R")
