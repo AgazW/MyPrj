@@ -25,4 +25,4 @@ To get started with the tool remotely (not as web application), install R base f
  
 Once you are done with all the installations put the tool folder in the current working directory. You can also set your working directory at the top of the Rstudio session -> Set Working Directory -> Choose Directory. After setting you can check the current working directory by getwd(). To run the program, load shiny package by typing  library(shiny) in your R consol and then enter runApp('shinyMDE') i,e the name of tool folder into R, open in browser and work.
 
-Check [wiki][https://github.com/AgazW/shinyMDE/wiki] for more help.
+Check [wiki](https://github.com/AgazW/shinyMDE/wiki) for more help.
